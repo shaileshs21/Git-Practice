@@ -1,0 +1,22 @@
+Eclipse Project Release Notes
+Target Operating Environments
+Known Issues
+General problems
+General - Startup
+Platform - Ant
+Platform - UI
+Platform - SWT
+Platform - Team - CVS
+CVS server compatibility
+Platform - Install/Update
+Java development tools (JDT)
+Breakpoints unreliable running Sun 1.6.0_14
+Evaluation limitation
+Missing debug attributes
+Using Hot Code Replace
+Scrapbook
+Java Annotation Processing
+Running Eclipse
+Mac OS X
+Appendix: Execution Environment by Bundle
+File Ended
