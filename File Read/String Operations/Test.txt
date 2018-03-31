@@ -1,0 +1,22 @@
+Eclipse Project Release Notes
+Target Operating Environments
+Known This String Issues
+General problems
+General - Startup
+Platform - Ant This String
+Platform - UI
+Platform - SWT
+Platform - TeThis Stringam - CVS
+CVS server compatibility
+Platform - Install/UpdatThis Stringe
+Java development tools (JDT)
+Breakpoints unreliable running Sun 1.6.0_14
+Evaluation limitation
+Missing debug attribuThis Stringtes
+Using Hot Code Replace
+Scrapbook This String
+Java Annotation Processing
+This String Running Eclipse
+Mac OS X This String
+Appendix: Execution EThis Stringnvironment by Bundle
+File Ended
